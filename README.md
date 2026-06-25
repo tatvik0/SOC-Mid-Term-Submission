@@ -7,7 +7,7 @@ Topics like recursion and bit manipulation needed more time, since the logic beh
 Screenshots of completed questions for each topic (Weeks 1–4) are attached as proof of progress for this assignment.
 
 ## Files
-- ` 25b0604__SOC_midterm.pdf `-
+- ` 25b0604__SOC_midterm.pdf `
 ## Resources
-Striver's A2Z DSA Course/Sheet
-Striver's DSA Playlist (YouTube)
+-Striver's A2Z DSA Course/Sheet
+-Striver's DSA Playlist (YouTube)
